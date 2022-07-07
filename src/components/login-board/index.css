@@ -1,0 +1,32 @@
+.login-board {
+    padding: 20px 30px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0.5rem 2rem;
+    border-radius: .25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-board h1 {
+    font-size: 2.1rem;
+    font-weight: 400;
+    margin: 5px 0px;
+    color: #343a40;
+}
+
+.login-board p {
+    color: rgb(108, 117, 125);
+    font-size: 0.9rem;
+}
+
+.login-board .inp {
+    margin: 10px 0;
+    width: 350px;
+}
+
+.login-board .submit-btn {
+    margin: 10px;
+    width: 100%;
+}
